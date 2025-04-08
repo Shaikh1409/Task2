@@ -5,6 +5,11 @@ This project is part of my **Data Analyst Internship** with Elevate Labs (MSME, 
 
 ## 📁 Task Overview
 
+
+
+![image](https://github.com/user-attachments/assets/9a9f6f7e-4c08-4dbf-ab8b-7c0cc30e742c)
+
+
 **Objective:**  
 Create meaningful visualizations that tell a compelling data story and deliver key business insights.
 
